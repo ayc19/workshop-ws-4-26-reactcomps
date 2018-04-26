@@ -243,8 +243,4 @@ Here are some ideas:
 You are done!! Amazing!!
 * [ ] How to add Ant Design Components
 * [ ] Make a basic layout
-* [ ] Made a autocomplete search bar
-
-## Resources
-
-* https://ant.design/docs/react/use-with-create-react-app
+* [ ] Made a autocomplete search 
